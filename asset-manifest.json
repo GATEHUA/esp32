@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.8c069492.css",
-    "main.js": "/static/js/main.a839379f.js",
-    "static/js/787.00a6a189.chunk.js": "/static/js/787.00a6a189.chunk.js",
-    "static/media/81768-cloud-animation.gif": "/static/media/81768-cloud-animation.2838f7d9244737582e80.gif",
-    "index.html": "/index.html",
-    "main.8c069492.css.map": "/static/css/main.8c069492.css.map",
-    "main.a839379f.js.map": "/static/js/main.a839379f.js.map",
-    "787.00a6a189.chunk.js.map": "/static/js/787.00a6a189.chunk.js.map"
+    "main.css": "/GATEHUA/newESP32/static/css/main.8c069492.css",
+    "main.js": "/GATEHUA/newESP32/static/js/main.bba81617.js",
+    "static/js/787.c04173fe.chunk.js": "/GATEHUA/newESP32/static/js/787.c04173fe.chunk.js",
+    "static/media/81768-cloud-animation.gif": "/GATEHUA/newESP32/static/media/81768-cloud-animation.2838f7d9244737582e80.gif",
+    "index.html": "/GATEHUA/newESP32/index.html",
+    "main.8c069492.css.map": "/GATEHUA/newESP32/static/css/main.8c069492.css.map",
+    "main.bba81617.js.map": "/GATEHUA/newESP32/static/js/main.bba81617.js.map",
+    "787.c04173fe.chunk.js.map": "/GATEHUA/newESP32/static/js/787.c04173fe.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.8c069492.css",
-    "static/js/main.a839379f.js"
+    "static/js/main.bba81617.js"
   ]
 }
